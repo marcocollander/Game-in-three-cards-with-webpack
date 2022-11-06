@@ -2,4 +2,6 @@ node_modules/
 .ide/
 .vscode/
 package-lock.json
+*.xml
+*.iml
 
